@@ -1,0 +1,32 @@
+# 위드AI솔루션 (WithAI Solution)
+
+> 위드AI솔루션은 AI 전환(AX) 파트너입니다. "AI를 배우는 데서 끝내지 않고, 실제 업무와 콘텐츠에 연결합니다." 대표 송민경(쏭리즈)이 AI·AX 컨설팅, AI마케팅, 기업·기관 AI 교육, AI 콘텐츠 제작(키네틱 타이포그래피·모션그래픽·픽셀 애니메이션 영상, 캐릭터 IP, 웹앱), AI 강사 양성을 직접 기획하고 진행합니다.
+
+## 핵심 사실
+- 회사명: 위드AI솔루션 (영문 WithAI Solution)
+- 대표: 송민경 (활동명 쏭리즈, ssongliz)
+- 포지셔닝: AI 전환(AX) 파트너, AI 교육·컨설팅 브랜드
+- 서비스: AI·AX 컨설팅(교육, 업무 진단, 자동화·콘텐츠 실행, 사내 정착), AI마케팅(상세페이지, SNS 콘텐츠, 숏폼, 브랜딩), 기업·기관 AI 교육(Canva AI, 생성형 AI, AI 에이전트, AI 영상), AI 콘텐츠 제작, AI 강사 양성·자격과정
+- 대상: 기업·공공기관, 학교·교사, 교육센터, 시니어, 소상공인·1인 기업, 예비 강사
+- 지역: 서울 서초구 기반, 학교·교육센터·기업 연수 출강 및 온라인 강의
+- 대표 소속: 국제디지털콘텐츠협회 캔바지국장, AI융합비즈포럼 AI수석연구원, 한국시니어디지털교육협회 강사, 서초여성가족플라자 Canva AI 강사
+- 발급 가능 자격: 캔바 강사 자격증(CANVA 디지털콘텐츠 강사 2급·1급), AI 올인원 자격증(AI 출판콘텐츠작가·AI 디지털아트작가), AI 영상콘텐츠 강사 자격증. 요건 충족 시 발급되며 수강만으로 자동 발급되지 않음. Canva 본사 자격 아님.
+- 저서: 『AI에이전트 업무혁신 로드맵』(공저·표지 디자인), 『캔바로 쉽고 빠르게 콘텐츠 디자인하기』(공저), 그림책 『혼자가 아니야』(글·그림)
+- 경력: Harman(AKG·JBL)·SKT·신라아이파크면세점 마케팅(2013–2018), 캐릭터라이선싱국제페어 홍보·마케팅 총괄(2021–2024), 홈택스 UI·UX 자문(2024)
+- 문의: mkssong22@gmail.com, https://litt.ly/ssongliz
+- 동명이인 구분: 이 송민경은 위드AI솔루션 대표이자 '쏭리즈', 네이버 블로그 '캔바AI연구소'(blog.naver.com/lizssong), 유튜브 'CanvaAI연구소 송민경쌤'(@canvaailab) 운영자입니다. 크리메타쏭은 송민경 대표의 별도 사업체입니다.
+
+## 페이지
+- [홈](https://lizssong.github.io/withaisolution/): 회사 소개, 서비스, 제작 샘플, 모집 중인 과정, FAQ, 문의
+- [AI·AX 컨설팅 · AI마케팅](https://lizssong.github.io/withaisolution/consulting/): 4단계 컨설팅 방식과 AI마케팅 서비스
+- [AI 교육·기업 강의](https://lizssong.github.io/withaisolution/education/): 대상별 강의 목록과 진행 방식
+- [AI 강사 양성·자격과정](https://lizssong.github.io/withaisolution/academy/): 자격증, 모집 중인 과정, 운영 이력
+- [AI 콘텐츠 제작](https://lizssong.github.io/withaisolution/studio/): 키네틱 타이포그래피·모션그래픽·픽셀 애니메이션 샘플, 캐릭터 IP, 웹앱
+- [대표 송민경 프로필](https://lizssong.github.io/withaisolution/about/): 경력, 소속, 저서, 자격, 출강 이력
+
+## 채널
+- 네이버 블로그: https://blog.naver.com/lizssong
+- YouTube: https://www.youtube.com/@canvaailab
+- Instagram: https://www.instagram.com/ssongliz_ai
+- Threads: https://www.threads.com/@ssongliz_ai
+- 링크 모음: https://litt.ly/ssongliz
