@@ -1,14 +1,24 @@
 // 위드AI솔루션 site script (no dependencies)
 (function () {
-  // scroll reveal
-  var els = document.querySelectorAll('.rv');
-  if ('IntersectionObserver' in window) {
-    var io = new IntersectionObserver(function (es) {
-      es.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
-    }, { rootMargin: '0px 0px -8% 0px' });
-    els.forEach(function (el) { io.observe(el); });
-  } else { els.forEach(function (el) { el.classList.add('in'); }); }
-
+  // scroll reveal (content stays visible if anything fails)
+  var els = [].slice.call(document.querySelectorAll('.rv'));
+  if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches && els.length) {
+    document.documentElement.classList.add('rv-on');
+    var check = function () {
+      var h = window.innerHeight || 800;
+      els = els.filter(function (el) {
+        var r = el.getBoundingClientRect();
+        if (r.top < h * 0.95 && r.bottom > -50) { el.classList.add('in'); return false; }
+        return true;
+      });
+      if (!els.length) { window.removeEventListener('scroll', check); window.removeEventListener('resize', check); }
+    };
+    window.addEventListener('scroll', check, { passive: true });
+    window.addEventListener('resize', check);
+    check();
+    // safety net: reveal everything after 4s in case scroll events never fire
+    setTimeout(function () { els.forEach(function (el) { el.classList.add('in'); }); }, 4000);
+  }
   // close mobile menu after choosing a link
   document.querySelectorAll('.mnav nav a').forEach(function (a) {
     a.addEventListener('click', function () { var d = a.closest('details'); if (d) d.removeAttribute('open'); });

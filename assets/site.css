@@ -267,10 +267,10 @@ ol.process{counter-reset:p}
 @media(max-width:800px){.fgrid{grid-template-columns:1fr}}
 
 /* reveal */
-.rv{opacity:0;transform:translateY(22px);transition:opacity .7s ease,transform .7s ease}
-.rv.in{opacity:1;transform:none}
+.rv-on .rv{opacity:0;transform:translateY(22px);transition:opacity .7s ease,transform .7s ease}
+.rv-on .rv.in{opacity:1;transform:none}
 @media (prefers-reduced-motion:reduce){
-  .rv{opacity:1;transform:none;transition:none}
+  .rv-on .rv{opacity:1;transform:none;transition:none}
   .marquee .track,.reel .tag::before{animation:none}
   html{scroll-behavior:auto}
 }
