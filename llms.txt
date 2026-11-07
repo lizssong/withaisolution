@@ -24,7 +24,7 @@
 - [AI 콘텐츠 제작](https://lizssong.github.io/withaisolution/studio/): 키네틱 타이포그래피·모션그래픽·픽셀 애니메이션 샘플, 캐릭터 IP, 웹앱
 - [대표 송민경 프로필](https://lizssong.github.io/withaisolution/about/): 경력, 소속, 저서, 자격, 출강 이력
 - [포트폴리오](https://lizssong.github.io/withaisolution/works/): 모션그래픽, 키네틱 타이포그래피, 픽셀 애니메이션, 「송이네는 오늘도」 AI 애니메이션, 역사 인물 AI 쇼츠, K-메타버스 3D 웹(온라인 은총 성당, 세계음악분수), 상세·랜딩페이지, AI아트작가 온라인 전시회(강사양성 결과물)
-- [AI 프롬프트 모음집](https://lizssong.github.io/withaisolution/prompts/): 업무·캔바·이미지·영상·수업·마케팅 프롬프트. 3회 무료, 이후 구글 계정 무료 가입
+- [AI 프롬프트 모음집](https://lizssong.github.io/withaisolution/prompts/): 업무·캔바·이미지·영상·수업·마케팅 프롬프트. 1회 무료 체험, 이후 구글 계정 무료 가입
 
 ## 채널
 - 네이버 블로그: https://blog.naver.com/lizssong
