@@ -17,14 +17,14 @@
 - 동명이인 구분: 이 송민경은 위드AI솔루션 대표이자 '쏭리즈', 네이버 블로그 '캔바AI연구소'(blog.naver.com/lizssong), 유튜브 'CanvaAI연구소 송민경쌤'(@canvaailab) 운영자입니다. 크리메타쏭은 송민경 대표의 별도 사업체입니다.
 
 ## 페이지
-- [홈](https://lizssong.github.io/withaisolution/): 회사 소개, 서비스, 제작 샘플, 모집 중인 과정, FAQ, 문의
-- [AI·AX 컨설팅 · AI마케팅](https://lizssong.github.io/withaisolution/consulting/): 4단계 컨설팅 방식과 AI마케팅 서비스
-- [AI 교육·기업 강의](https://lizssong.github.io/withaisolution/education/): 대상별 강의 목록과 진행 방식
-- [AI 강사 양성·자격과정](https://lizssong.github.io/withaisolution/academy/): 자격증, 모집 중인 과정, 운영 이력
-- [AI 콘텐츠 제작](https://lizssong.github.io/withaisolution/studio/): 키네틱 타이포그래피·모션그래픽·픽셀 애니메이션 샘플, 캐릭터 IP, 웹앱
-- [대표 송민경 프로필](https://lizssong.github.io/withaisolution/about/): 경력, 소속, 저서, 자격, 출강 이력
-- [포트폴리오](https://lizssong.github.io/withaisolution/works/): 모션그래픽, 키네틱 타이포그래피, 픽셀 애니메이션, 「송이네는 오늘도」 AI 애니메이션, 역사 인물 AI 쇼츠, K-메타버스 3D 웹(온라인 은총 성당, 세계음악분수), 상세·랜딩페이지, 웹앱(쏭모션 스튜디오, HTML 영상 변환소 https://ssongliz-html-video.netlify.app/), 수업 활동지(GIF 프롬프트 활동지 https://gif-prompt-activity.netlify.app/), AI아트작가 온라인 전시회(강사양성 결과물)
-- [AI 프롬프트 모음집](https://lizssong.github.io/withaisolution/prompts/): 업무·캔바·이미지·영상·수업·마케팅 프롬프트. 1회 무료 체험, 이후 구글 계정 무료 가입. 연결 사이트: 쏭리즈 생활 프롬프트북, GIF 프롬프트 활동지, 교사 AI 프롬프트 발행기 등
+- [홈](https://withaisolution.co.kr/): 회사 소개, 서비스, 제작 샘플, 모집 중인 과정, FAQ, 문의
+- [AI·AX 컨설팅 · AI마케팅](https://withaisolution.co.kr/consulting/): 4단계 컨설팅 방식과 AI마케팅 서비스
+- [AI 교육·기업 강의](https://withaisolution.co.kr/education/): 대상별 강의 목록과 진행 방식
+- [AI 강사 양성·자격과정](https://withaisolution.co.kr/academy/): 자격증, 모집 중인 과정, 운영 이력
+- [AI 콘텐츠 제작](https://withaisolution.co.kr/studio/): 키네틱 타이포그래피·모션그래픽·픽셀 애니메이션 샘플, 캐릭터 IP, 웹앱
+- [대표 송민경 프로필](https://withaisolution.co.kr/about/): 경력, 소속, 저서, 자격, 출강 이력
+- [포트폴리오](https://withaisolution.co.kr/works/): 모션그래픽, 키네틱 타이포그래피, 픽셀 애니메이션, 「송이네는 오늘도」 AI 애니메이션, 역사 인물 AI 쇼츠, K-메타버스 3D 웹(온라인 은총 성당, 세계음악분수), 상세·랜딩페이지, 웹앱(쏭모션 스튜디오, HTML 영상 변환소 https://ssongliz-html-video.netlify.app/), 수업 활동지(GIF 프롬프트 활동지 https://gif-prompt-activity.netlify.app/), AI아트작가 온라인 전시회(강사양성 결과물)
+- [AI 프롬프트 모음집](https://withaisolution.co.kr/prompts/): 업무·캔바·이미지·영상·수업·마케팅 프롬프트. 1회 무료 체험, 이후 구글 계정 무료 가입. 연결 사이트: 쏭리즈 생활 프롬프트북, GIF 프롬프트 활동지, 교사 AI 프롬프트 발행기 등
 
 ## 채널
 - 네이버 블로그: https://blog.naver.com/lizssong
