@@ -18,7 +18,9 @@
 
 ## 페이지
 - [홈](https://withaisolution.co.kr/): 회사 소개, 서비스, 제작 샘플, 모집 중인 과정, FAQ, 문의
-- [AI·AX 컨설팅 · AI마케팅](https://withaisolution.co.kr/consulting/): 4단계 컨설팅 방식과 AI마케팅 서비스
+- [AX 컨설팅 · AI마케팅](https://withaisolution.co.kr/consulting/): 반복 업무를 AI 비서에게 넘기는 AX 컨설팅. 진단 → 파일럿 → 구축 → 운영 순서. 시작 가격(부가세 별도): 무료 AX 자가진단 0원, AX 진단 컨설팅 50만 원(소상공인·소기업, 기업·기관 150만 원부터, 파일럿 계약 시 차감), AX 파일럿 300만 원부터(2~4주), AX 구축 800만 원부터(4~8주), 운영·개선 파트너 월 50만 원부터, 임직원 AX 워크숍 2시간 80만 원부터·반일 150만 원부터, AI마케팅 월 콘텐츠 운영대행 월 80만 원부터
+- [무료 AX 진단](https://withaisolution.co.kr/ax-check/): 가입 없이 5분. 반복 업무 13종의 주당 시간과 일하는 방식 7문항으로 AX 준비도 점수(100점), 월 절감 시간·인건비 추정, 먼저 자동화할 업무 TOP3, 추천 시작 단계를 보여 주는 웹앱. 결과로 30분 무료 상담 신청 가능
+- [AX 컨설팅 소개서 PDF](https://withaisolution.co.kr/assets/withai-ax-consulting.pdf): 서비스, 진행 방식, 가격, 대표 소개
 - [AI 교육·기업 강의](https://withaisolution.co.kr/education/): 대상별 강의 목록과 진행 방식
 - [AI 강사 양성·자격과정](https://withaisolution.co.kr/academy/): 자격증, 모집 중인 과정, 운영 이력
 - [AI 콘텐츠 제작](https://withaisolution.co.kr/studio/): 키네틱 타이포그래피·모션그래픽·픽셀 애니메이션 샘플, 캐릭터 IP, 웹앱
@@ -34,4 +36,4 @@
 - 링크 모음: https://litt.ly/ssongliz
 - 위드AI솔루션 인사이트(AX·AI마케팅·교육 콘텐츠, 문의 허브): https://withaisol.com/
 
-최종 업데이트: 2026-11-10
+최종 업데이트: 2026-11-13
