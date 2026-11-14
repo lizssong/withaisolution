@@ -112,7 +112,7 @@
       '<div><span class="lvl">' + esc(r.level) + '</span><p style="margin-top:10px;font-size:16.5px">' + esc(r.packWhy) + '</p></div></div>' +
       '<div class="kpis"><div><b>월 ' + r.low + '~' + r.hours + '시간</b><span>줄일 수 있는 시간 (추정)</span></div><div><b>월 ' + won(r.wonMonth) + '원</b><span>인건비 환산 (시간당 ' + won(r.wage) + '원)</span></div><div><b>연 ' + won(r.wonYear) + '원</b><span>1년 환산</span></div></div>' +
       '<h3 style="font-size:19px">먼저 AI 비서에게 넘길 업무 TOP 3</h3><ol class="top3">' + top + '</ol>' +
-      '<div class="rec"><h3>추천 시작: ' + esc(r.pack) + '</h3><p>서비스별 기간과 시작 가격은 <a href="../consulting/#pricing" style="color:#fff;text-decoration:underline">AX 컨설팅 안내</a>에서 확인하세요. 30분 무료 상담에서 이 결과를 함께 보며 우리 조직에 맞는 첫 업무를 정해 드립니다.</p></div>' +
+      '<div class="rec"><h3>추천 시작: ' + esc(r.pack) + '</h3><p>서비스별 기간과 진행 단계는 <a href="../consulting/#pricing" style="color:#fff;text-decoration:underline">AX 컨설팅 안내</a>에서 확인하세요. 30분 무료 상담에서 이 결과를 함께 보며 우리 조직에 맞는 첫 업무와 견적을 정해 드립니다.</p></div>' +
       '<p class="sm muted" style="margin-top:14px">절감 시간은 업무별 자동화 예상 비율(45~75%)로 보수적으로 계산한 추정치이며 보장값이 아닙니다.</p>';
   }
 
