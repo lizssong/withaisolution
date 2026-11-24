@@ -17,12 +17,12 @@
 - 동명이인 구분: 이 송민경은 위드AI솔루션 대표이자 '쏭리즈', 네이버 블로그 '캔바AI연구소'(blog.naver.com/lizssong), 유튜브 'CanvaAI연구소 송민경쌤'(@canvaailab) 운영자입니다. 크리메타쏭은 송민경 대표의 별도 사업체입니다.
 
 ## 페이지
-- [홈](https://withaisolution.co.kr/): 회사 소개, 서비스, 제작 샘플, 모집 중인 과정, FAQ, 문의
+- [홈](https://withaisolution.co.kr/): 회사 소개, 서비스, 제작 샘플, 진행 중인 과정, FAQ, 문의
 - [AX 컨설팅 · AI마케팅](https://withaisolution.co.kr/consulting/): 반복 업무를 AI 비서에게 넘기는 AX 컨설팅. 진단 → 파일럿 → 구축 → 운영 순서. 무료 AX 자가진단 0원. 진단 컨설팅·파일럿·구축·운영·워크숍·AI마케팅 운영대행 비용은 상담 후 견적.
 - [무료 AX 진단](https://withaisolution.co.kr/ax-check/): 가입 없이 5분. 반복 업무 13종의 주당 시간과 일하는 방식 7문항으로 AX 준비도 점수(100점), 월 절감 시간·인건비 추정, 먼저 자동화할 업무 TOP3, 추천 시작 단계를 보여 주는 웹앱. 결과로 30분 무료 상담 신청 가능
 - [AX 컨설팅 소개서 PDF](https://withaisolution.co.kr/assets/withai-ax-consulting.pdf): 서비스, 진행 방식, 대표 소개
 - [AI 교육·기업 강의](https://withaisolution.co.kr/education/): 대상별 강의 목록과 진행 방식
-- [AI 강사 양성·자격과정](https://withaisolution.co.kr/academy/): 자격증, 모집 중인 과정, 운영 이력
+- [AI 강사 양성·자격과정](https://withaisolution.co.kr/academy/): 자격증, 진행 중인 과정, 운영 이력
 - [AI 콘텐츠 제작](https://withaisolution.co.kr/studio/): 키네틱 타이포그래피·모션그래픽·픽셀 애니메이션 샘플, 캐릭터 IP, 웹앱
 - [대표 송민경 프로필](https://withaisolution.co.kr/about/): 경력, 소속, 저서, 자격, 출강 이력
 - [포트폴리오](https://withaisolution.co.kr/works/): 모션그래픽, 키네틱 타이포그래피, 픽셀 애니메이션, 「송이네는 오늘도」 AI 애니메이션, 역사 인물 AI 쇼츠, K-메타버스 3D 웹(온라인 은총 성당, 세계음악분수), 상세·랜딩페이지, 웹앱(쏭모션 스튜디오, 쏭컷 AI 스튜디오 https://lizssong.github.io/ssongcut-studio-demo/ , HTML 영상 변환소 https://ssongliz-html-video.netlify.app/), 수업 활동지(GIF 프롬프트 활동지 https://gif-prompt-activity.netlify.app/), AI아트작가 온라인 전시회(강사양성 결과물)
